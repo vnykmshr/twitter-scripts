@@ -1,0 +1,16 @@
+{
+  "name": "twitter",
+  "version": "0.0.1",
+  "description": "twitter scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "request": "latest",
+    "async": "latest"
+  },
+  "repository": "",
+  "author": "Vinayak Mishra",
+  "license": "BSD"
+}
